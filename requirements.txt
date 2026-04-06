@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+kaggle
+sentence-transformers
+transformers
+torch
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
